@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Josh
-- 👀 I’m interested in programming especially in C#
-- 🌱 I’m currently learning frontend development
+- 👀 I’m interested in programming especially in C# with .Net Core Framework
+- 🌱 I’m currently learning Full-Stack Development
 - 📫 How to reach me jmatela26@gmail.com
 
 <!---
