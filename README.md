@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Josh
+- 👋 Hi, I’m Josiah Matela
 - 👀 I’m interested in programming especially in C# with .Net Core Framework
 - 🌱 I’m currently learning Full-Stack Development
 - 📫 How to reach me jmatela26@gmail.com
